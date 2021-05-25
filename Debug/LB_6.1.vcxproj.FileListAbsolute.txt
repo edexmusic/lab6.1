@@ -1,0 +1,4 @@
+D:\Project\OOP\LB6\LB_6.1\Debug\LB_6.1.exe
+D:\Project\OOP\LB6\LB_6.1\Debug\LB_6.1.pdb
+C:\Users\denys\Desktop\IK-11\Denys Tsybko\2 СЕМЕСТР\OOP\LB_6.1\Debug\LB_6.1.exe
+C:\Users\denys\Desktop\IK-11\Denys Tsybko\2 СЕМЕСТР\OOP\LB_6.1\Debug\LB_6.1.pdb
